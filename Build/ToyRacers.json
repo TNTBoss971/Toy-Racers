@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SD-CodeyRaceway",
+"productVersion": "0.1",
+"dataUrl": "ToyRacers.data.unityweb",
+"wasmCodeUrl": "ToyRacers.wasm.code.unityweb",
+"wasmFrameworkUrl": "ToyRacers.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.35f1"
+}
